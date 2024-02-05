@@ -2,13 +2,11 @@
 
 ## Overview
 
-This repository contains my award-winning submission for the Xenalytics Data Science competition, where I secured the first prize by accurately predicting stock prices for five different companies. The predictions are based on a comprehensive analysis using various charts and plots generated with libraries such as Seaborn and Matplotlib. Additionally, I implemented a state-of-the-art Long Short-Term Memory (LSTM) model for the stock price predictions.
+This repository showcases my award-winning submission for the Xenalytics Data Science competition. This project focuses on predicting the stock prices of five companies using a custom LSTM model. The goal was to provide accurate and insightful predictions for the Xenalytics data science competition and pitch best 3 companies to invest in
 
 ## Contents
 
 - **Data**: The dataset used for the competition is stored in the `data/` directory.
-  
-- **Notebook**: The main analysis and modeling work can be found in the Jupyter notebooks within the `notebooks/` directory.
 
 - **Report and PPT**: The visualizations created during the analysis, including charts and plots, are stored in the `ReportPPT/` directory.
 
