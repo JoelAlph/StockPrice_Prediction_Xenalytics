@@ -8,9 +8,9 @@ This repository contains my award-winning submission for the Xenalytics Data Sci
 
 - **Data**: The dataset used for the competition is stored in the `data/` directory.
   
-- **Notebooks**: The main analysis and modeling work can be found in the Jupyter notebooks within the `notebooks/` directory.
+- **Notebook**: The main analysis and modeling work can be found in the Jupyter notebooks within the `notebooks/` directory.
 
-- **Visualizations**: The visualizations created during the analysis, including charts and plots, are stored in the `visualizations/` directory.
+- **Report and PPT**: The visualizations created during the analysis, including charts and plots, are stored in the `ReportPPT/` directory.
 
 - **Models**: The trained LSTM model and any related files are saved in the `models/` directory.
 
